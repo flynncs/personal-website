@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.6093d6bf.css",
-    "main.js": "/personal-website/static/js/main.db50a0dc.js",
+    "main.css": "/personal-website/static/css/main.f0e7ab1e.css",
+    "main.js": "/personal-website/static/js/main.21ec36f5.js",
     "static/media/hero-cropped.png": "/personal-website/static/media/hero-cropped.d64df720707673e4da88.png",
     "static/media/personal-website.png": "/personal-website/static/media/personal-website.0cce00276cb2b0b692cb.png",
     "static/media/battle-royale.png": "/personal-website/static/media/battle-royale.6661e1bd7d6a44dcfbae.png",
     "static/media/type-racer.png": "/personal-website/static/media/type-racer.ae4a8a1904d2f3101720.png",
     "index.html": "/personal-website/index.html",
-    "main.6093d6bf.css.map": "/personal-website/static/css/main.6093d6bf.css.map",
-    "main.db50a0dc.js.map": "/personal-website/static/js/main.db50a0dc.js.map"
+    "main.f0e7ab1e.css.map": "/personal-website/static/css/main.f0e7ab1e.css.map",
+    "main.21ec36f5.js.map": "/personal-website/static/js/main.21ec36f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.6093d6bf.css",
-    "static/js/main.db50a0dc.js"
+    "static/css/main.f0e7ab1e.css",
+    "static/js/main.21ec36f5.js"
   ]
 }
