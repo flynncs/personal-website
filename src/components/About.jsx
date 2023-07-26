@@ -11,7 +11,7 @@ const About = () => {
         </div>
 
         <p className='text-xl mt-20'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse exercitationem animi sed incidunt, ex ab, vel nihil illum laboriosam accusamus explicabo eos doloribus asperiores voluptatem quasi! Consequuntur, nesciunt harum! Aspernatur earum labore commodi ex officia, sunt a eaque doloremque quidem, vel facilis in possimus natus libero, illum nihil hic voluptates!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse exercitationem animi sed incidunt, ex ab, vel nihil illum laboriosam  explicabo eos doloribus asperiores voluptatem quasi! Consequuntur, nesciunt harum! Aspernatur earum labore commodi ex officia, sunt a eaque doloremque quidem, vel facilis in possimus natus libero, illum nihil hic voluptates!
         </p>
 
         <br />
