@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'sage-dark': '#4d5d53',
+        'sage-light': '#738678'
+      },
+    },
     fontFamily: {
       signature: ["Great Vibes"],
     }

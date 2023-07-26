@@ -2,10 +2,10 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'>
+    <div name='about' className='w-full h-screen bg-gradient-to-b from-stone-100 to-stone-200 text-sage-dark'>
       <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-          <p className='text-4xl font-bold inline border-b-4 border-gray-500'>
+          <p className='text-4xl font-bold inline border-b-4 border-sage-light'>
             About
           </p>
         </div>
@@ -17,7 +17,7 @@ const About = () => {
         <br />
 
         <p className='text-xl'>
-          I am fortunate enough to have interned at Daifuku Oceania over my last years of high school, and am grateful for everything I learned whilst there. 
+          I am fortunate enough to have previously interned at Daifuku Oceania for 2 years, and am grateful for everything I learned whilst there. 
         </p>
 
         <br />
