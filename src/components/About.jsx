@@ -11,13 +11,19 @@ const About = () => {
         </div>
 
         <p className='text-xl mt-20'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse exercitationem animi sed incidunt, ex ab, vel nihil illum laboriosam  exlicabo eos doloribus asperiores voluptatem quasi! Consequuntur, nesciunt harum! Aspernatur earum labore commodi ex officia, sunt a eaque doloremque quidem, vel facilis in possimus natus libero, illum nihil hic voluptates!
+          Hi, I'm Flynn, a second year software engineering student at the University of Auckland. I've taken an interest in everything related to this field since high school, and I'm learning more about it every day! 
         </p>
 
         <br />
 
         <p className='text-xl'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quas corrupti culpa nostrum nemo perferendis tempore adipisci voluptatibus dicta quod, fugiat magni aliquam minima quidem quisquam enim alias, in eaque. Voluptatum, odit fuga! Nostrum, vel eum cupiditate tempora numquam quam magni ea velit, atque fugiat rem ipsam nam ducimus.
+          I am fortunate enough to have interned at Daifuku Oceania over my last years of high school, and am grateful for everything I learned whilst there. 
+        </p>
+
+        <br />
+
+        <p className='text-xl'>
+          I am currently searching for an internship over the coming summer holidays, which would allow me to grow and develop myself - both professionally and personally!
         </p>
       </div>
     </div>
