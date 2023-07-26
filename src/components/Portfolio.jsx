@@ -56,7 +56,7 @@ const Portfolio = () => {
 
         
 
-        <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0'>
+        <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 py-8 px-12 sm:px-0'>
           {
             portfolios.map(({id, name, src, link}) => (
               <div id={id} className='shadow-md shadow-stone-300 rounded-lg hover:scale-105 duration-300'>
