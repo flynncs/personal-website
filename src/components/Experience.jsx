@@ -7,42 +7,42 @@ const Experience = () => {
   const techs = [
     {
       id: 1,
-      src: <BiLogoPython size={80} className='w-30 mx-auto'/>,
+      src: <BiLogoPython size={70} className='w-30 mx-auto'/>,
       title: 'Python'
     },
     {
       id: 2,
-      src: <BiLogoReact size={80} className='w-30 mx-auto'/>,
+      src: <BiLogoReact size={70} className='w-30 mx-auto'/>,
       title: 'React'
     },
     {
       id: 3,
-      src: <BiLogoJava size={80} className='w-30 mx-auto'/>,
+      src: <BiLogoJava size={70} className='w-30 mx-auto'/>,
       title: 'Java'
     },
     {
       id: 4,
-      src: <BiLogoJavascript size={80} className='w-30 mx-auto'/>,
+      src: <BiLogoJavascript size={70} className='w-30 mx-auto'/>,
       title: 'JavaScript'
     },
     {
       id: 5,
-      src: <BiLogoGithub size={80} className='w-30 mx-auto'/>,
+      src: <BiLogoGithub size={70} className='w-30 mx-auto'/>,
       title: 'GitHub'
     },
     {
       id: 6,
-      src: <BiLogoHtml5 size={80} className='w-30 mx-auto'/>,
+      src: <BiLogoHtml5 size={70} className='w-30 mx-auto'/>,
       title: 'HTML'
     },
     {
       id: 7,
-      src: <BiLogoTailwindCss size={80} className='w-30 mx-auto'/>,
+      src: <BiLogoTailwindCss size={70} className='w-30 mx-auto'/>,
       title: 'TailwindCSS'
     },
     {
       id: 8,
-      src: <BiLogoCss3 size={80} className='w-30 mx-auto'/>,
+      src: <BiLogoCss3 size={70} className='w-30 mx-auto'/>,
       title: 'CSS'
     },
   ]
